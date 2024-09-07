@@ -1,0 +1,5 @@
+/Users/guilhermecastro/projetos-estudos/csharp/pulero-back/obj/Debug/net8.0/pulero-back.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guilhermecastro/projetos-estudos/csharp/pulero-back/obj/Debug/net8.0/pulero-back.AssemblyInfoInputs.cache
+/Users/guilhermecastro/projetos-estudos/csharp/pulero-back/obj/Debug/net8.0/pulero-back.AssemblyInfo.cs
+/Users/guilhermecastro/projetos-estudos/csharp/pulero-back/obj/Debug/net8.0/pulero-back.csproj.CoreCompileInputs.cache
+/Users/guilhermecastro/projetos-estudos/csharp/pulero-back/obj/Debug/net8.0/pulero-back.MvcApplicationPartsAssemblyInfo.cache
